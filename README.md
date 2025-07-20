@@ -26,9 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alancdias&show_icons=true&theme=dark&title_color=3f7fff&text_color=3f7fff&bg_color=0d1117&hide_border=true&locale=en" alt="alancdias" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alancdias/alancdias/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alancdias/alancdias/blob/output/github-contribution-grid-snake.svg">
-  <img alt="pacman contribution graph" src="https://github.com/alancdias/alancdias/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alancdias/alancdias/blob/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alancdias/alancdias/blob/output/pacman-contribution-graph.svg">
+  <img alt=" " src="https://github.com/alancdias/alancdias/blob/output/pacman-contribution-graph-dark.svg">
 </picture>
 <br>
-<i>Snake by @Platane (https://github.com/Platane/snk)</i>
+<i>Pacman by @abozanona (https://github.com/abozanona/pacman-contribution-graph)</i>
